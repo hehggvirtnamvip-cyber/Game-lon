@@ -1,0 +1,7133 @@
+{
+ "history": [
+  "T",
+  "X",
+  "X",
+  "X",
+  "X",
+  "X",
+  "T",
+  "X",
+  "X",
+  "T",
+  "T",
+  "X",
+  "T",
+  "X",
+  "X",
+  "X",
+  "X",
+  "X",
+  "X",
+  "T",
+  "T",
+  "T",
+  "T",
+  "T",
+  "X",
+  "X",
+  "T",
+  "X",
+  "T",
+  "T",
+  "X",
+  "T",
+  "X",
+  "T",
+  "T",
+  "T",
+  "T",
+  "T",
+  "X",
+  "X",
+  "X",
+  "X",
+  "X",
+  "X",
+  "T",
+  "T",
+  "X",
+  "X",
+  "T",
+  "X",
+  "T",
+  "T",
+  "T",
+  "X",
+  "X",
+  "T",
+  "X",
+  "T",
+  "T",
+  "X",
+  "T",
+  "T",
+  "X",
+  "T",
+  "X",
+  "X",
+  "X",
+  "T",
+  "T",
+  "T",
+  "T",
+  "T",
+  "X",
+  "T",
+  "X",
+  "T",
+  "T",
+  "X",
+  "X",
+  "X",
+  "X",
+  "T",
+  "X",
+  "X",
+  "X",
+  "X",
+  "X",
+  "X",
+  "X",
+  "T",
+  "X",
+  "T",
+  "X",
+  "X",
+  "X",
+  "T",
+  "T",
+  "T",
+  "X",
+  "T"
+ ],
+ "book": {
+  "TTX": {
+   "T": 21,
+   "X": 19,
+   "count": 40
+  },
+  "TXX": {
+   "T": 19,
+   "X": 14,
+   "count": 33
+  },
+  "TTXX": {
+   "T": 12,
+   "X": 7,
+   "count": 19
+  },
+  "XXT": {
+   "T": 18,
+   "X": 15,
+   "count": 33
+  },
+  "TXXT": {
+   "T": 9,
+   "X": 10,
+   "count": 19
+  },
+  "TTXXT": {
+   "T": 4,
+   "X": 8,
+   "count": 12
+  },
+  "XTX": {
+   "T": 14,
+   "X": 14,
+   "count": 28
+  },
+  "XXTX": {
+   "T": 9,
+   "X": 6,
+   "count": 15
+  },
+  "TXXTX": {
+   "T": 7,
+   "X": 3,
+   "count": 10
+  },
+  "TTXXTX": {
+   "T": 6,
+   "X": 2,
+   "count": 8
+  },
+  "XTXX": {
+   "T": 7,
+   "X": 7,
+   "count": 14
+  },
+  "XXTXX": {
+   "T": 4,
+   "X": 2,
+   "count": 6
+  },
+  "TXXTXX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTXXTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXX": {
+   "T": 14,
+   "X": 21,
+   "count": 35
+  },
+  "TXXX": {
+   "T": 6,
+   "X": 8,
+   "count": 14
+  },
+  "XTXXX": {
+   "T": 5,
+   "X": 2,
+   "count": 7
+  },
+  "XXTXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXT": {
+   "T": 9,
+   "X": 5,
+   "count": 14
+  },
+  "TXXXT": {
+   "T": 4,
+   "X": 2,
+   "count": 6
+  },
+  "XTXXXT": {
+   "T": 4,
+   "X": 1,
+   "count": 5
+  },
+  "XXTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTX": {
+   "T": 2,
+   "X": 3,
+   "count": 5
+  },
+  "TXXXTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXT": {
+   "T": 5,
+   "X": 2,
+   "count": 7
+  },
+  "XXTXXT": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "XXXTXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTT": {
+   "T": 20,
+   "X": 19,
+   "count": 39
+  },
+  "XXTT": {
+   "T": 10,
+   "X": 8,
+   "count": 18
+  },
+  "TXXTT": {
+   "T": 6,
+   "X": 3,
+   "count": 9
+  },
+  "XTXXTT": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "XXTXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXTXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTT": {
+   "T": 26,
+   "X": 20,
+   "count": 46
+  },
+  "XTTT": {
+   "T": 13,
+   "X": 7,
+   "count": 20
+  },
+  "XXTTT": {
+   "T": 5,
+   "X": 5,
+   "count": 10
+  },
+  "TXXTTT": {
+   "T": 2,
+   "X": 4,
+   "count": 6
+  },
+  "XTXXTTT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XXTXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXXTXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTT": {
+   "T": 13,
+   "X": 13,
+   "count": 26
+  },
+  "XTTTT": {
+   "T": 8,
+   "X": 5,
+   "count": 13
+  },
+  "XXTTTT": {
+   "T": 4,
+   "X": 1,
+   "count": 5
+  },
+  "TXXTTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTXXTTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XXTXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTT": {
+   "T": 5,
+   "X": 8,
+   "count": 13
+  },
+  "XTTTTT": {
+   "T": 2,
+   "X": 6,
+   "count": 8
+  },
+  "XXTTTTT": {
+   "T": 0,
+   "X": 4,
+   "count": 4
+  },
+  "TXXTTTTT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "XTXXTTTTT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "XXTXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXTXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTX": {
+   "T": 8,
+   "X": 12,
+   "count": 20
+  },
+  "TTTTX": {
+   "T": 6,
+   "X": 7,
+   "count": 13
+  },
+  "TTTTTX": {
+   "T": 3,
+   "X": 5,
+   "count": 8
+  },
+  "XTTTTTX": {
+   "T": 2,
+   "X": 4,
+   "count": 6
+  },
+  "XXTTTTTX": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TXXTTTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXXTTTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTXXTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXXTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXT": {
+   "T": 21,
+   "X": 13,
+   "count": 34
+  },
+  "TTXT": {
+   "T": 10,
+   "X": 10,
+   "count": 20
+  },
+  "TTTXT": {
+   "T": 4,
+   "X": 3,
+   "count": 7
+  },
+  "TTTTXT": {
+   "T": 4,
+   "X": 2,
+   "count": 6
+  },
+  "TTTTTXT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XTTTTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTTTTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXTTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTT": {
+   "T": 10,
+   "X": 11,
+   "count": 21
+  },
+  "TTXTT": {
+   "T": 3,
+   "X": 7,
+   "count": 10
+  },
+  "TTTXTT": {
+   "T": 1,
+   "X": 3,
+   "count": 4
+  },
+  "TTTTXTT": {
+   "T": 1,
+   "X": 3,
+   "count": 4
+  },
+  "TTTTTXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTTTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTTTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTTTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTX": {
+   "T": 13,
+   "X": 6,
+   "count": 19
+  },
+  "TXTTX": {
+   "T": 9,
+   "X": 2,
+   "count": 11
+  },
+  "TTXTTX": {
+   "T": 6,
+   "X": 1,
+   "count": 7
+  },
+  "TTTXTTX": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "TTTTXTTX": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "TTTTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTTTTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXT": {
+   "T": 6,
+   "X": 7,
+   "count": 13
+  },
+  "TXTTXT": {
+   "T": 5,
+   "X": 4,
+   "count": 9
+  },
+  "TTXTTXT": {
+   "T": 4,
+   "X": 2,
+   "count": 6
+  },
+  "TTTXTTXT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTTTXTTXT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTTTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTT": {
+   "T": 2,
+   "X": 4,
+   "count": 6
+  },
+  "TXTTXTT": {
+   "T": 2,
+   "X": 3,
+   "count": 5
+  },
+  "TTXTTXTT": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TTTXTTXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTTXTTXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTTTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTX": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "TXTTXTTX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTXTTXTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTXTTXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTTXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTXTTXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXX": {
+   "T": 3,
+   "X": 3,
+   "count": 6
+  },
+  "TXTTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXT": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "TXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTTXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXTX": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "TXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXT": {
+   "T": 11,
+   "X": 3,
+   "count": 14
+  },
+  "XXTXT": {
+   "T": 6,
+   "X": 3,
+   "count": 9
+  },
+  "TXXTXT": {
+   "T": 5,
+   "X": 2,
+   "count": 7
+  },
+  "TTXXTXT": {
+   "T": 4,
+   "X": 2,
+   "count": 6
+  },
+  "XTTXXTXT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "TXTTXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTX": {
+   "T": 5,
+   "X": 8,
+   "count": 13
+  },
+  "XTXTX": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "XXTXTX": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "TXXTXTX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TTXXTXTX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "XTTXXTXTX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXTTXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXX": {
+   "T": 3,
+   "X": 5,
+   "count": 8
+  },
+  "XTXTXX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XXTXTXX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "TXXTXTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXXTXTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTXXTXTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTTXXTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXXTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXT": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "XTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXXTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXTT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XTXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXTXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTX": {
+   "T": 4,
+   "X": 4,
+   "count": 8
+  },
+  "TXXTTX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XTXXTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXX": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TXXTTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXXT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXXTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTXXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXXTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTTXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXTTXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXXTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTXXTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXX": {
+   "T": 4,
+   "X": 1,
+   "count": 5
+  },
+  "XTXTXXX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XXTXTXXX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXXTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXT": {
+   "T": 4,
+   "X": 0,
+   "count": 4
+  },
+  "XTXTXXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XXTXTXXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTT": {
+   "T": 4,
+   "X": 5,
+   "count": 9
+  },
+  "TXXXTT": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "XTXXXTT": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TXTXXXTT": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "XTXTXXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTXTXXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTXTXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXTXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTX": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "TXXXTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXXXTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTXXXTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXTXXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTXXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTXXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXT": {
+   "T": 1,
+   "X": 3,
+   "count": 4
+  },
+  "XXXTTXT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "TXXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTXXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTXXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTX": {
+   "T": 5,
+   "X": 5,
+   "count": 10
+  },
+  "XTTXTX": {
+   "T": 4,
+   "X": 3,
+   "count": 7
+  },
+  "XXTTXTX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XXXTTXTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTXXXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXT": {
+   "T": 5,
+   "X": 0,
+   "count": 5
+  },
+  "TTXTXT": {
+   "T": 5,
+   "X": 0,
+   "count": 5
+  },
+  "XTTXTXT": {
+   "T": 4,
+   "X": 0,
+   "count": 4
+  },
+  "XXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTT": {
+   "T": 7,
+   "X": 4,
+   "count": 11
+  },
+  "TXTXTT": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "TTXTXTT": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "XTTXTXTT": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "XXTTXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTTXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTT": {
+   "T": 8,
+   "X": 2,
+   "count": 10
+  },
+  "XTXTTT": {
+   "T": 5,
+   "X": 2,
+   "count": 7
+  },
+  "TXTXTTT": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "TTXTXTTT": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "XTTXTXTTT": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "XXTTXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTT": {
+   "T": 4,
+   "X": 4,
+   "count": 8
+  },
+  "XTXTTTT": {
+   "T": 2,
+   "X": 3,
+   "count": 5
+  },
+  "TXTXTTTT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "TTXTXTTTT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XTTXTXTTTT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XXTTXTXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXTXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTX": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "TXTTTTX": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "XTXTTTTX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TXTXTTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXTXTTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTXTXTTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTTXTXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TXTTTTXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTXTTTTXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTXTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXTT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXTTTTXTT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "XTXTTTTXTT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXTXTTTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXTTTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTXTTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTTTTXTTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTXTTTTXTTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTXTTTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTTTTXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXTTTTXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTTXTX": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "TTXTTXTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXT": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "TTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXTT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTXTTXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTTXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTTXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTX": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "TXTXTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXTXTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTXTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTXTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTXT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "TXTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTXTXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTXTXTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTXTTXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXTTXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTXTTXTXTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTXTTXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXTTXTXTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTTXTXTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXX": {
+   "T": 8,
+   "X": 4,
+   "count": 12
+  },
+  "TTTTXX": {
+   "T": 5,
+   "X": 2,
+   "count": 7
+  },
+  "XTTTTXX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTTTTXX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTXTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXT": {
+   "T": 4,
+   "X": 4,
+   "count": 8
+  },
+  "TTTTXXT": {
+   "T": 2,
+   "X": 3,
+   "count": 5
+  },
+  "XTTTTXXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTTTTXXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXTTTTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXTTTTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXTTTTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTT": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "TTTXXTT": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "TTTTXXTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTTTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXTTTTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTTT": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "TTTXXTTT": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "TTTTXXTTT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "XTTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTX": {
+   "T": 2,
+   "X": 5,
+   "count": 7
+  },
+  "XXTTTX": {
+   "T": 1,
+   "X": 4,
+   "count": 5
+  },
+  "TXXTTTX": {
+   "T": 0,
+   "X": 4,
+   "count": 4
+  },
+  "TTXXTTTX": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "TTTXXTTTX": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "TTTTXXTTTX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "XTTTTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXX": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "XXTTTXX": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TXXTTTXX": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TTXXTTTXX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTTXXTTTXX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTTTXXTTTXX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTTTXXTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXXT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XXTTTXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXTTTXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTXXTTTXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTTXXTTTXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTTTXXTTTXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTTXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTTTXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTTTXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXXTTTXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTXXTTTXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXX": {
+   "T": 1,
+   "X": 6,
+   "count": 7
+  },
+  "TTTXXX": {
+   "T": 1,
+   "X": 3,
+   "count": 4
+  },
+  "XTTTXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTTTXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTTTXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXXTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXX": {
+   "T": 8,
+   "X": 13,
+   "count": 21
+  },
+  "TXXXX": {
+   "T": 1,
+   "X": 7,
+   "count": 8
+  },
+  "TTXXXX": {
+   "T": 1,
+   "X": 5,
+   "count": 6
+  },
+  "TTTXXXX": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "XTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXX": {
+   "T": 7,
+   "X": 6,
+   "count": 13
+  },
+  "TXXXXX": {
+   "T": 2,
+   "X": 5,
+   "count": 7
+  },
+  "TTXXXXX": {
+   "T": 2,
+   "X": 3,
+   "count": 5
+  },
+  "TTTXXXXX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XTTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXX": {
+   "T": 5,
+   "X": 1,
+   "count": 6
+  },
+  "TXXXXXX": {
+   "T": 4,
+   "X": 1,
+   "count": 5
+  },
+  "TTXXXXXX": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "TTTXXXXXX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXT": {
+   "T": 5,
+   "X": 3,
+   "count": 8
+  },
+  "XXXXXT": {
+   "T": 5,
+   "X": 2,
+   "count": 7
+  },
+  "XXXXXXT": {
+   "T": 4,
+   "X": 1,
+   "count": 5
+  },
+  "TXXXXXXT": {
+   "T": 4,
+   "X": 0,
+   "count": 4
+  },
+  "TTXXXXXXT": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "TTTXXXXXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTT": {
+   "T": 2,
+   "X": 3,
+   "count": 5
+  },
+  "XXXXXTT": {
+   "T": 2,
+   "X": 3,
+   "count": 5
+  },
+  "XXXXXXTT": {
+   "T": 1,
+   "X": 3,
+   "count": 4
+  },
+  "TXXXXXXTT": {
+   "T": 1,
+   "X": 3,
+   "count": 4
+  },
+  "TTXXXXXXTT": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "TTTXXXXXXTT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "XTTTXXXXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XXXXXTTX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XXXXXXTTX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TXXXXXXTTX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTXXXXXXTTX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTTXXXXXXTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXXXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXXXXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXXXXXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXXXXXXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXX": {
+   "T": 2,
+   "X": 3,
+   "count": 5
+  },
+  "XTTXTXX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XXTTXTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXTXXTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTXTXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXTXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXTXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTXX": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "XTTTTTXX": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "XXTTTTTXX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XTTTTTXXT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XXTTTTTXXT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXXTTTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTX": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "TTTTXXTX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTTTTXXTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTTTTXXTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XXTTTTTXXTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXTTTTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXTXT": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "TTTTXXTXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTTTTXXTXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XTTTTTXXTXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XXTTTTTXXTXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XXTXTT": {
+   "T": 4,
+   "X": 2,
+   "count": 6
+  },
+  "TXXTXTT": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "TTXXTXTT": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TTTXXTXTT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "TTTTXXTXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTTTXXTXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTTTTXXTXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTXTTT": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TXXTXTTT": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "TTXXTXTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTXXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXXTXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXTXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXTTTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTXTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTT": {
+   "T": 3,
+   "X": 0,
+   "count": 3
+  },
+  "XTTXTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXTTXTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTXTTXTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTTXTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTTT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XTTXTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTTXTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXTTXTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTXTTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTT": {
+   "T": 2,
+   "X": 2,
+   "count": 4
+  },
+  "TTXTTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTTXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTTX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TTXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTTTTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTTTTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTTTTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTXXTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTTTXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTTXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXX": {
+   "T": 0,
+   "X": 3,
+   "count": 3
+  },
+  "XXTTXXX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XXTTXXXX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXXTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTTXXXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXXXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXXXXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XXTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXTTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTXTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTTTXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTTTXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTTTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTXXTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTXXTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXXTXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXXTXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTXXTXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXXTXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTXXTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXXTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXTXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXXTXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTXXTXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTXTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTXTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXXTXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXTXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXXTXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTXTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXTXTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTXTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTTXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTXTXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTXTXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXTXXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTXXTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXTTTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXTTTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXTTTXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTTTXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXTTTXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTXXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTTTXXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTXXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXXXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXXTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTXTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTXTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXTXTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTT": {
+   "T": 3,
+   "X": 2,
+   "count": 5
+  },
+  "XTTTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTTTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXTTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXTTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXTXTTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXTTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTTTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTTTTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTTTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTTXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTXTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTTTTTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTTTTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTTTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXXX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TTTTTXXX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TTTTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXXXX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TTTTTXXXX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TTTTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXXXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTTTXXXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTTTTXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTTXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXXXXXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTTXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXXXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTT": {
+   "T": 3,
+   "X": 1,
+   "count": 4
+  },
+  "XXXXTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "XXXXXTTT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXXXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTTT": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "XXXXTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXXXTTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXXXXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXXXXTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXXXTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXTTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTTTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXX": {
+   "T": 2,
+   "X": 1,
+   "count": 3
+  },
+  "TTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXXT": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXXTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTXTXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTXTXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTXXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTXXXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTXXXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXXTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTTXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXTTXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTX": {
+   "T": 1,
+   "X": 2,
+   "count": 3
+  },
+  "XXXXXTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXXXXXTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXXXXTXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXXTXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXTXXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTXXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXTTXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXTTXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXTTXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXXX": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "TXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTTXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXXXX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXXXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXXXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTTTT": {
+   "T": 0,
+   "X": 2,
+   "count": 2
+  },
+  "XXXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTTTTX": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XXXXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTTTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TXXTXTTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTXXTXTTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTTXXTXTTX": {
+   "T": 2,
+   "X": 0,
+   "count": 2
+  },
+  "TTTTXXTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXXTXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXXTXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTXXTXTTXT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTTTXXTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXXTXTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTXTXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTXTTTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXTTTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXTTTTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXTTTTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTTTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTTTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXXXXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXXXXXXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXXXXXTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXXTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTTXXTXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXTXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXXTXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTXXTXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXTXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTXXTXTTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXXTXTTTXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXTTTXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTTXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTTXXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTTXXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTTXXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTXXTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTTXXTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTXXTXTTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXXTXTTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXTXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXXTXTTXTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXTXTTXTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTTXTTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXTTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTTXTXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "XTXXXTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TXTXXXTTT": {
+   "T": 1,
+   "X": 1,
+   "count": 2
+  },
+  "TTXTXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTTXTXXXTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTXTXXXTTTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXXXTTTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXTTTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXTTTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXTTTTTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTTTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTTTTXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTTTTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTTTTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTTTTTXTXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTTTTTXTXTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTXTXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTTTTXTXTTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTTXTXTTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTXTXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTTTXTXTTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTTXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXTTXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTXTXTTXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TTTXTXTTXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXTTXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXTXTTXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTXTTXXXXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXXXXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXTTXXXXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXTTXXXXTXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTTXXXXTXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TTXXXXTXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXTXXXXXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTXXXXXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXXXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXXXXXXXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXXXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXXXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXXXXXXXTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XTXXXXXXXTXT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "TXXXXXXXTXTX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXXXXXTXTXX": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXXTXTXXX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXXTXTXXXT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXTXTXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXXXTXTXXXTT": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTXXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXTXTXXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTXTXXXTTT": {
+   "T": 0,
+   "X": 1,
+   "count": 1
+  },
+  "XXXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXXXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXXXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "TXTXXXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XTXTXXXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  },
+  "XXTXTXXXTTTX": {
+   "T": 1,
+   "X": 0,
+   "count": 1
+  }
+ },
+ "anti": {},
+ "pred_log": [
+  {
+   "phien": 7253580,
+   "pattern": "TXXXX",
+   "pred": "X",
+   "actual": "X",
+   "correct": true,
+   "flipped": false,
+   "conf": 0.874
+  }
+ ],
+ "model_stats": {
+  "TXXXX": {
+   "total": 1,
+   "correct": 1,
+   "wrong": 0,
+   "flipped": 0
+  }
+ },
+ "last_pred": null,
+ "last_phien": 7253637
+}
