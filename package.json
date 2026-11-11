@@ -1,45 +1,17 @@
 {
   "name": "all-in-one-taixiu-api",
   "version": "1.0.0",
-  "description": "ALL-IN-ONE Tài Xỉu API - Tích hợp full.py + xocdia88.py + sicbo.py + sicbosum.py + lc79cbm.js + 11 file JSON predictor",
+  "description": "ALL-IN-ONE Tài Xỉu API",
   "main": "all_in_one.js",
   "scripts": {
-    "start": "node all_in_one.js",
-    "dev": "nodemon all_in_one.js"
-  },
-  "keywords": [
-    "taixiu",
-    "sicbo",
-    "xocdia",
-    "lc79",
-    "b52",
-    "hitclub",
-    "rikvip",
-    "betvip",
-    "sunwin",
-    "68gb",
-    "luck8",
-    "789club",
-    "sumclub",
-    "luckywin",
-    "prediction",
-    "pattern",
-    "book",
-    "markov",
-    "neural-network",
-    "genetic-algorithm"
-  ],
-  "author": "@tranhoang2286",
-  "license": "MIT",
-  "engines": {
-    "node": ">=16.0.0"
+    "start": "node all_in_one.js"
   },
   "dependencies": {
     "express": "^4.18.2",
     "axios": "^1.6.2",
     "ws": "^8.14.2"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
