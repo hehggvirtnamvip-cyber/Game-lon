@@ -1,0 +1,12 @@
+# This project is a Node.js Express API (all_in_one.js) with no frontend
+# build step. Netlify installs dependencies from package.json with npm,
+# and the API runs as a Netlify Server from netlify/server/index.mjs.
+
+[build]
+  # Nothing to compile; just make sure the (empty) publish directory exists.
+  command = "mkdir -p public"
+  publish = "public"
+
+[build.environment]
+  # Netlify Server requires Node.js 24 or later.
+  NODE_VERSION = "24"
